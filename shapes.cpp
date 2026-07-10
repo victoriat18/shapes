@@ -19,7 +19,7 @@ class Shape {
     string getName() {
         return name;
     }
-    //virtual destructor
+    //virtual destructor,
     virtual ~Shape(){}
 }; // closes
 
